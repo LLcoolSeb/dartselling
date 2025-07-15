@@ -45,7 +45,7 @@ export default async function Image() {
             textShadow: '2px 2px 4px rgba(0,0,0,0.5)',
           }}
         >
-          Verkauf Dartsammlung
+          Dartsammlung – Verkauf
         </div>
         
         {/* Subtitle */}
