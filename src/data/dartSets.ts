@@ -123,7 +123,7 @@ export const dartSets: DartSet[] = [
     name: 'Target Nathan Aspinall G2',
     weight: 24,
     condition: 'wenig bespielt',
-    price: 60,
+    price: 65,
     images: ['/images/dart14-1.jpg', '/images/dart14-2.jpg'],
     shopLink: 'https://www.dartshopper.de/target-nathan-aspinall-g2-swiss-point-95.html'
   },
