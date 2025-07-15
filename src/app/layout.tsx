@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Verkauf der Dartsammlung",
+  title: "Dartsammlung - Verkauf",
   description: "Darts - same same but different - 26 verschiedene Sets verfügbar - von wie neu bis bespielt. PayPal-Zahlung, Versand möglich. WhatsApp-Kontakt für Fragen.",
   keywords: "Darts, Dart-Sets, Steeldarts, Tungsten, Verkauf, Dart-Verkauf, Dart-Sammlung",
   authors: [{ name: "Sebastian Grosse" }],
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Verkauf der Dartsammlung",
+    title: "Dartsammlung - Verkauf",
     description: "Darts - same same but different - 26 verschiedene Sets verfügbar - von wie neu bis bespielt. PayPal-Zahlung, Versand möglich.",
     url: 'https://darts.sebjogro.com',
     siteName: 'Dart Sets Verkauf',
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Verkauf der Dartsammlung",
+    title: "Dartsammlung - Verkauf",
     description: "Entdecke unsere Auswahl an hochwertigen Dart-Sets. 26 verschiedene Sets verfügbar - von wie neu bis bespielt. PayPal-Zahlung, Versand inklusive.",
   },
   robots: {
