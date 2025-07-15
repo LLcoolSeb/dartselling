@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dart Sets Verkauf - Professionelle Dart-Sets zu fairen Preisen",
-  description: "Entdecke unsere Auswahl an hochwertigen Dart-Sets. 26 verschiedene Sets verfügbar - von wie neu bis bespielt. PayPal-Zahlung, Versand inklusive. WhatsApp-Kontakt für Fragen.",
+  title: "Verkauf der Dartsammlung",
+  description: "Darts - same same but different - 26 verschiedene Sets verfügbar - von wie neu bis bespielt. PayPal-Zahlung, Versand möglich. WhatsApp-Kontakt für Fragen.",
   keywords: "Darts, Dart-Sets, Steeldarts, Tungsten, Verkauf, Dart-Verkauf, Dart-Sammlung",
   authors: [{ name: "Sebastian Grosse" }],
   creator: "Sebastian Grosse",
@@ -29,8 +29,8 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Dart Sets Verkauf - Professionelle Dart-Sets zu fairen Preisen",
-    description: "Entdecke unsere Auswahl an hochwertigen Dart-Sets. 26 verschiedene Sets verfügbar - von wie neu bis bespielt. PayPal-Zahlung, Versand inklusive.",
+    title: "Verkauf der Dartsammlung",
+    description: "Darts - same same but different - 26 verschiedene Sets verfügbar - von wie neu bis bespielt. PayPal-Zahlung, Versand möglich.",
     url: 'https://darts.sebjogro.com',
     siteName: 'Dart Sets Verkauf',
     locale: 'de_DE',
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Dart Sets Verkauf - Professionelle Dart-Sets zu fairen Preisen",
+    title: "Verkauf der Dartsammlung",
     description: "Entdecke unsere Auswahl an hochwertigen Dart-Sets. 26 verschiedene Sets verfügbar - von wie neu bis bespielt. PayPal-Zahlung, Versand inklusive.",
   },
   robots: {
