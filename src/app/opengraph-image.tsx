@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og'
  
 export const runtime = 'edge'
  
-export const alt = 'Dart Sets Verkauf - Professionelle Dart-Sets zu fairen Preisen'
+export const alt = 'Darts - same same but different'
 export const contentType = 'image/png'
 export const size = {
   width: 1200,
@@ -58,7 +58,7 @@ export default async function Image() {
             maxWidth: '800px',
           }}
         >
-          Professionelle Dart-Sets zu fairen Preisen
+          Darts - same same but different
         </div>
         
         {/* Features */}
@@ -72,7 +72,7 @@ export default async function Image() {
         >
           <span>🎯 26 Sets verfügbar</span>
           <span>💳 PayPal</span>
-          <span>📦 Versand inklusive</span>
+          <span>📦 Versand möglich</span>
         </div>
         
         {/* Bottom accent */}
