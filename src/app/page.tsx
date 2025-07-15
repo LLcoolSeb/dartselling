@@ -41,30 +41,34 @@ export default function Home() {
       <main className="container mx-auto px-4 py-8">
         {/* Info Box - Neo Brutalism Style */}
         <div className="flex justify-center mb-8">
-          <div className="p-6 border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transform rotate-1 hover:rotate-0 transition-transform duration-200 text-center" style={{backgroundColor: '#C4A1FF'}}>
+          <div className="p-6 border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transform rotate-1 hover:rotate-0 transition-transform duration-200 text-center max-w-md mx-auto" style={{backgroundColor: '#C4A1FF'}}>
           <h3 className="text-xl font-black text-black mb-4 uppercase tracking-wider text-center">
             ⚡ Infos ⚡
           </h3>
-          <div className="space-y-3 text-black font-semibold">
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">🎯</span>
-              <p>Spitzen können nach Absprache getauscht werden</p>
+          <div className="space-y-3 text-black font-semibold text-center">
+            <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
+              <span className="text-2xl mx-auto sm:mx-0">🎯</span>
+              <p className="text-center sm:text-left">Spitzen können nach Absprache getauscht werden</p>
             </div>
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">🧼</span>
-              <p>Auf Wunsch vorab Reinigung mit Ultraschallbad</p>
+            <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
+              <span className="text-2xl mx-auto sm:mx-0">🧼</span>
+              <p className="text-center sm:text-left">Auf Wunsch vorab Reinigung mit Ultraschallbad</p>
             </div>
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">✈️</span>
-              <p>Flights (K-flex, Cruesoul etc.) können auch nach Absprache erworben werden</p>
+            <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
+              <span className="text-2xl mx-auto sm:mx-0">✈️</span>
+              <p className="text-center sm:text-left">Flights (K-flex, Cruesoul etc.) können auch nach Absprache erworben werden</p>
             </div>
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">💳</span>
-              <p>Zahlung via PayPal</p>
+            <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
+              <span className="text-2xl mx-auto sm:mx-0">💳</span>
+              <p className="text-center sm:text-left">Zahlung via PayPal</p>
             </div>
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">📦</span>
-              <p>Versand inklusive oder Übergabe vor Ort möglich (nach Absprache) </p>
+            <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
+              <span className="text-2xl mx-auto sm:mx-0">📦</span>
+              <p className="text-center sm:text-left">Plus 2,80€ (Maxibrief) Versand oder Übergabe vor Ort möglich (nach Absprache)</p>
+            </div>
+            <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
+              <span className="text-2xl mx-auto sm:mx-0">💬</span>
+              <p className="text-center sm:text-left">Bei Interesse einfach auf den WhatsApp-Button unter dem gewünschten Dart-Set klicken!</p>
             </div>
           </div>
         </div>
