@@ -56,7 +56,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
               <span className="text-2xl mx-auto sm:mx-0">✈️</span>
-              <p className="text-center sm:text-left">Flights (K-flex, Cruesoul etc.) können auch nach Absprache erworben werden</p>
+              <p className="text-center sm:text-left">Flights (K-flex, Cuesoul u.v.m.) können auch nach Absprache erworben werden</p>
             </div>
             <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
               <span className="text-2xl mx-auto sm:mx-0">💳</span>
