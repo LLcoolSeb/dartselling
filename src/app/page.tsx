@@ -66,10 +66,6 @@ export default function Home() {
               <span className="text-2xl mx-auto sm:mx-0">📦</span>
               <p className="text-center sm:text-left">Plus 2,80€ (Maxibrief) Versand oder Übergabe vor Ort möglich (nach Absprache)</p>
             </div>
-            <div className="flex flex-col sm:flex-row sm:items-start gap-2 sm:gap-3 justify-center">
-              <span className="text-2xl mx-auto sm:mx-0">💬</span>
-              <p className="text-center sm:text-left">Bei Interesse einfach auf den WhatsApp-Button unter dem gewünschten Dart-Set klicken!</p>
-            </div>
           </div>
         </div>
         </div>
